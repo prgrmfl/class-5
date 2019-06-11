@@ -1,8 +1,13 @@
 # JavaScript 1
 
+materials
 * JavaScript 1: [beta](https://github.com/be-hacking-hyf/javascrpt-1) (the one you used in class), [original](https://github.com/HackYourFutureBelgium/JavaScript1) (the standard HYF JS1)
 * [homeworks template repo](https://github.com/be-hacking-hyf/javascript-1-homework)
 * [cross-module project pt. 1](https://github.com/be-hacking-hyf/cross-module-1)
+
+coaches
+* [coach 1 github]()
+* [coach 2 github]()
 
 ### Index
 * [emoji dictionary](#emoji-dictionary)
