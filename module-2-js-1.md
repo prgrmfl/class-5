@@ -52,7 +52,7 @@ and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fu
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
 | Star Student | :question: | I'm having trouble with ```const``` vs. ```var``` | :shipit: | check out [this video](https://tylermcginnis.com/var-let-const/) |
-|  | | | | |
+| [evan]() | :white_check_mark: | easy, no sweat |  | |
 
 ### Project Check-Off 1
 
