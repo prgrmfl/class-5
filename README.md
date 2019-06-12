@@ -6,6 +6,11 @@ This repository is yours to keep track of what you've covered so far, to get to 
 
 Any of you who are interested in helping to manage your class' repo can let us know in [a comment on this issue](https://github.com/HackYourFutureBEHomework/class-5/issues/1).  We can give you access to the repo and help you get started
 
+---
+
+## Homework & Projects
+
+You will be using [this repo's wiki](https://github.com/HackYourFutureBEHomework/class-5/wiki) to keep track of your homework. at least for JS 1, this is still an experiment.
 
 ___
 ___
