@@ -1,4 +1,5 @@
-# Something about Berihu
-Profile Image | full name | age 
------------- | -----------|-----
-https://user-images.githubusercontent.com/50493216/59880477-68e56480-93ad-11e9-8436-7bf96e395355.png| Berihu Gebremedhin|26
+## Berihu Gebremedhin
+ https://github.com/Berihugebre/HTML-CSS/blob/master/week1/assets/Berihu1.jpg;
+Age | Nationality| Educational Background|Github 
+------------ | -----------|-----|---
+26| Eritrean| Bsc in Mathematics| [Berihugebre](https://github.com/Berihugebre)
