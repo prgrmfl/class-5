@@ -5,4 +5,4 @@
  GitHub Account (https://github.com/rcmzyldz)
 
 Hello, I'm Rahime.I am from Turkey.I have lived in Belgium for six months. I'm married and have a daughter.
-These days, I am busy with coding. I hope I can be successful.I like meeting new people, traveling and taking photos. I'm happy to study with Hack Your Future Community.
+These days, I am busy with coding. I hope I can be successful.I like meeting new people, cooking, traveling and taking photos.I'm happy to study with Hack Your Future Community.
