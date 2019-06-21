@@ -1,36 +1,49 @@
 # Name of Module
 
-materials
+a little description of the module
+
+### Index
+* [shared notes](#shared-notes)
+* [materials & coaches](#materials-and-coaches)
+* [emoji dictionary](#emoji-dictionary)
+* [week 1](#week-1)
+    * [homework check-off 1](#homework-check-off-1)
+    * [project check-off 1](#project-check-off-1)
+* [week 2](#week-2)
+    * [homework check-off 2](#homework-check-off-2)
+    * [project check-off 2](#project-check-off-2)
+* [week 3](#week-3)
+    * [homework check-off 3](#homework-check-off-3)
+    * [project check-off 3](#project-check-off-3)
+
+---
+
+## Shared notes
+
+> put links to helpful resources & examples, problems you've encountered, answers to each others questions, anything you'll find helpful!
+
+[TOP](#index)
+
+---
+
+## materials and coaches
+
+__matierals__
 * [Name of Module](link to module repo)
     * do not fork this repo, we'll be updating it regularly 
 * [homeworks template repo](link to homework repo)
     * fork this repo to complete the assignments on your account
 * [cross-module project pt. x](link to project repo)
     * fork this repo to complete the project on your account
-
-coaches
+    
+__coaches__
 * [coach 1](link to github)
 * [coach 2](link to github)
 
-### Index
-* [emoji dictionary](#emoji-dictionary)
-* [week 1](#week-1)
-    * [homework check-off 1](#homework-check-off-1)
-    * [project check-off 1](#project-check-off-1)
-    * [student notes 1](#student-notes-1)
-    * [coach notes 1](#coach-notes-1)
-* [week 2](#week-2)
-    * [homework check-off 2](#homework-check-off-2)
-    * [project check-off 2](#project-check-off-2)
-    * [student notes 2](#student-notes-2)
-    * [coach notes 2](#coach-notes-2)
-* [week 3](#week-3)
-    * [homework check-off 3](#homework-check-off-3)
-    * [project check-off 3](#project-check-off-3)
-    * [student notes 3](#student-notes-3)
-    * [coach notes 3](#coach-notes-3)
+[TOP](#index)
 
 ---
+
 
 ## Emoji Dictionary
 
@@ -46,7 +59,7 @@ coaches
 
 and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fun.
 
-[TOP](#javascript-1)
+[TOP](#index)
 
 ---
 
@@ -70,13 +83,8 @@ Add a row into this table with a link to your project repo.  Let us know on slac
 | Star Student | :question: | how are ```onclick``` and ```id``` different? | :shipit: | [onclick](https://www.w3schools.com/tags/ev_onclick.asp) makes an element do something, the ```id``` is just for finding the element later  |
 |  | | | | |
 
-### Student Notes 1
 
-
-### Coach Notes 1 
-
-
-[TOP](#javascript-1)
+[TOP](#index)
 
 ---
 
@@ -101,13 +109,8 @@ Add a row into this table with a link to your project repo.  Let us know on slac
 | Star Student | :question: | how are ```onclick``` and ```id``` different? | :shipit: | [onclick](https://www.w3schools.com/tags/ev_onclick.asp) makes an element do something, the ```id``` is just for finding the element later  |
 |  | | | | |
 
-### Student Notes 2
 
-
-### Coach Notes 2
-
-
-[TOP](#javascript-1)
+[TOP](#index)
 
 ---
 
@@ -132,13 +135,9 @@ Add a row into this table with a link to your project repo.  Let us know on slac
 | Star Student | :question: | how are ```onclick``` and ```id``` different? | :shipit: | [onclick](https://www.w3schools.com/tags/ev_onclick.asp) makes an element do something, the ```id``` is just for finding the element later  |
 |  | | | | |
 
-### Student Notes 3
 
 
-### Coach Notes 3
-
-
-[TOP](#javascript-1)
+[TOP](#index)
 
 
 ___
