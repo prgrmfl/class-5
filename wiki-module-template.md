@@ -51,8 +51,8 @@ __coaches__
 | --- | --- | --- |
 |  :wavy_dash: | student | started, in progress  | 
 | :question: | student | need help (after asking your fellow students!) | 
-| :white_check_mark: | student | think it's done | 
-| :white_check_mark: | coaches | homework is checked and OK |
+| :green_heart: | student | think it's done | 
+| :green_heart: | coaches | homework is checked and OK |
 | :warning: | coaches | homework has a few issues, see comments and send a message on slack |
 | :shipit: | coaches | we've posted an answer to your question  | 
 | :star2: | coaches | you did something awesome |
