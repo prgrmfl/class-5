@@ -1,6 +1,5 @@
 
-![Jamal] (https://user-images.githubusercontent.com/50467548/59849386-c1920e80-9367-11e9-98a8-59fedd5e7c21.jpeg)
-
+<img src="https://user-images.githubusercontent.com/50467548/59849386-c1920e80-9367-11e9-98a8-59fedd5e7c21.jpeg" alt="Jamal's pic" width=40%>
 
 
 ## This is Jamal Naser 25 year old from Afghanistan I live in belgium since 2018.
